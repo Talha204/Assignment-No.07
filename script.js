@@ -1,6 +1,6 @@
 //  
-//                                 program No.1
-//                  Write a js program to find maximum between two numbers. 
+//                                              program No.1
+//                         Write a js program to find maximum between two numbers. 
 
 // var num1 =+ prompt("Enter tha 1st Number")
 // var num2 =+ prompt("Enter tha 2nd Number")
@@ -104,5 +104,95 @@
 //                           -----------------------------------------------------
 
 
-//                                               program No.5
+//                                               program No.6
 //                       Write a js program to check whether a year is leap year or not.
+
+
+// var Year=+ prompt("Enter tha Year")
+
+// if (Year % 4) {
+//     console.log("This is a not leap Year")
+// }
+
+// else{
+//     console.log("This is a leap Year")
+// }
+
+//                           ------------------------------------------------------  
+
+
+//                                            program NO.7
+//                   Write a js program to check whether a character is alphabet or not
+
+
+// var num = prompt("Enter tha alphabet")
+
+
+// if (num >= "a" && num <= "z") {
+//     console.log("This is a alphabet character")
+// }
+
+// else{
+//     console.log("This is a not alphabet character")
+// }       
+
+
+//                        -------------------------------------------------------------
+
+
+//                                            program No.8
+//            Write a js program to input any alphabet and check whether it is vowel or consonant
+
+// var num = prompt("Enter tha alphabet")
+
+// if (num == 'a' || num == 'e'|| num == 'i' ||num == 'o' ||num == 'u') {
+//     console.log("this is a Vowel alphabet")
+// }
+// else if (num == 'A' || num == 'E'|| num == 'I' ||num == 'O' ||num == 'U') {
+//     console.log("This is a vowel alphabet")
+// }
+
+// else{
+//     console.log("This is a consonant alphabet")
+// }
+
+
+//                       -------------------------------------------------------------
+
+
+//                                              program No.9
+//   Write a js program to input any character and check whether it is alphabet, digit or special character. 
+
+// var num= prompt("Enter tha character")
+
+// if (num >= 0 || num <= 9) {
+//     console.log("This is a digit character")
+// }
+
+
+// else if(num >= "a" && num <= "z") {
+//     console.log("This is a alphabet character")
+// }
+
+// else{
+//     console.log("This is a special character")
+// }
+
+//                        ---------------------------------------------------------
+
+
+//                                         program No.10
+//         Write a js program to check whether a character is uppercase or lowercase alphabet
+
+// var num = prompt("Enter tha alphabet")
+
+// if (num >= "a" && num <= "z") {
+//     console.log("this is a lowercase alphabet")
+// }
+// else if (num >= "A" && num <= "Z") {
+//     console.log("this is a uppercase alphabet")
+// }
+
+// else{
+//     console.log("This is a not alphabet")
+// }
