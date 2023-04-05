@@ -196,3 +196,128 @@
 // else{
 //     console.log("This is a not alphabet")
 // }
+
+//                                -----------------------------------------
+
+
+//                                              program no.11
+//                         Write a js program to input week number and print week day.
+
+// var num1 = prompt("Enter Tha Week Number")
+
+// if(num1 == 1) {
+//     console.log("Monday")
+// }
+// else if(num1 == 2) {
+//     console.log("Tuesday")
+// }
+// else if(num1 == 3) {
+//     console.log("Wednesday")
+// }
+// else if(num1 == 4) {
+//     console.log("Thursday")
+// }
+// else if(num1 == 5) {
+//     console.log("Friday")
+// }
+// else if(num1 == 6) {
+//     console.log("Saturday")
+// }
+// else if(num1 == 6) {
+//     console.log("Sunday")
+// }
+// else{
+//     console.log("In a week, there are only seven days")
+// }
+
+//                           ---------------------------------------------------------
+
+
+                                
+//                                            program NO.12               
+//              Write a js program to input month number and print number of days in that month
+
+// var num1 = prompt("Enter Tha Month Number")
+
+// if(num1 == 1) {
+//     console.log("January - 31 days")
+// }
+// else if(num1 == 2) {
+//     console.log("February - 28 days in a common year and 29 days in leap years")
+// }
+// else if(num1 == 3) {
+//     console.log("March - 31 days");
+// }
+// else if(num1 == 4) {
+//     console.log("April - 30 days");
+// }
+// else if(num1 == 5) {
+//     console.log("May - 31 days");
+// }
+// else if(num1 == 6) {
+//     console.log("June - 30 days");
+// }
+// else if(num1 == 7) {
+//     console.log("July - 31 days");
+// }
+// else if(num1 == 8) {
+//     console.log("August - 31 days");
+// }
+// else if(num1 == 9) {
+//     console.log("September - 30 days");
+// }
+// else if(num1 == 10) {
+//     console.log("October - 31 days");
+// }
+// else if(num1 == 11) {
+//     console.log("November - 30 days");
+// }
+// else if(num1 == 12) {
+//     console.log("December - 31 days");
+// }
+// else{
+//     console.log("In a year there are only 12 months")
+// }
+
+//                        -------------------------------------------------
+
+//                                           Program No.13
+//                 Write a js program to count total number of notes in given amount.
+
+
+
+// var num1 = prompt("Enter tha Amount")
+
+// if(num1 <= 50 && num1%10==0) {
+// let answer = num1/10
+// console.log(answer, 'notes of 10 in ',num1);
+// }
+// else if(num1 <=100 && num1%20==0) {
+//     let answer = num1/20
+//     console.log(answer, "notes of 20 in" ,num1)
+// }
+// else if(num1 <=500 && num1%50==0) {
+//     let answer = num1/50
+//     console.log(answer, "notes of 50 in" ,num1)
+// }
+// else if(num1 <=1000 && num1%100==0) {
+//     let answer = num1/100
+//     console.log(answer, "notes of 100 in" ,num1)
+// }
+// else if(num1 <=5000 && num1%500==0) {
+//     let answer = num1/500
+//     console.log(answer, "notes of 500 in" ,num1)
+// }
+// else if(num1 > 5000  && num1%1000==0) {
+//     let answer = num1/1000
+//     console.log(answer, "notes of 1000 in" ,num1)
+// }
+// else{
+//       console.log("Please Enter Tha valid Amount")
+// }
+
+//                        -----------------------------------------------
+
+
+//                                 program N0.14
+//.     Write a js program to input angles of a triangle and check whether triangle is valid or not.
